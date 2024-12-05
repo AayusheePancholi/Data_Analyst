@@ -4,7 +4,8 @@
 
 ### PowerBI Dashboards
 
-- Revenue Ahanlysis (4 Dashboards)
+- Revenue Analysis (4 Dashboards)
+  
   1 Revenue Analysis Overview
   ![revenue1](https://github.com/user-attachments/assets/105a9f3f-d6e7-425d-8ee2-5d31d208570e)
 
@@ -18,6 +19,7 @@
   ![revenue4](https://github.com/user-attachments/assets/e979442f-8597-4668-9649-0a650d634094)
 
 - Store Turnover Analysis (2 Dashboards)
+  
   1 Turnover
   ![Retail1](https://github.com/user-attachments/assets/89d38a8c-4a69-4758-a525-94183965ed7b)
 
