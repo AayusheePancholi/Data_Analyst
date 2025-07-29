@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-## Following are my projects on Python, SQL, PowerBI and Excel.
+## Following are my projects on PowerBI and Excel.
 
 ### PowerBI Dashboards
 
